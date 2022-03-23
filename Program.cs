@@ -14,6 +14,7 @@ namespace UserProfileApp
             var birthdate = Console.ReadLine();
 
             Console.Write($"Ваше имя: {name}, возраст: {age}, дата рождения: {birthdate}");
+
             Console.ReadLine();
         }
     }
